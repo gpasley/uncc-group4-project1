@@ -15,7 +15,7 @@
 - George Pasley
 - Anna Phimmasone
 - Mohammad Sami
-- Jason Tan (jtyh1981@gmail.com)
+- Jason Tan (jtyh1981@gmail.com) - PEW research data (internet & social media usage facts, data in csv format. cleanup using excel, splitting into excel sheets)
 
 
 
